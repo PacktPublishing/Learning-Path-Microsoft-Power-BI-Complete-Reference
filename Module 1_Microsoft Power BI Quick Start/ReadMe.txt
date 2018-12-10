@@ -1,0 +1,1 @@
+Chapter 6 does not contain any code files.
